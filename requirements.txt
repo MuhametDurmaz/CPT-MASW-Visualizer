@@ -1,0 +1,7 @@
+streamlit>=1.40,<2
+plotly>=6.1.1,<8
+pandas>=2.2,<4
+numpy>=1.26,<3
+scipy>=1.13,<2
+kaleido>=1,<2
+pillow>=10,<13
