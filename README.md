@@ -1,5 +1,9 @@
 # CPT / MASW 3D visualizer
 
+Interactive 3D visualization of CPT, MASW, and borehole data.
+
+![Rotating CPT and MASW visualization](cpt_masw_demo.gif)
+
 A local Python interface using Streamlit and Plotly. Source files are read, never modified or deleted. Multiple CSV datasets share a rotatable 3D coordinate grid. This plots measured points; it does not interpolate measurements into a volume.
 
 ## Start in the VisualizeData environment
