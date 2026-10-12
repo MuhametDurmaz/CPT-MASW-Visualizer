@@ -1,4 +1,4 @@
-# CPT / MASW 3D visualizer
+# 3D Site Investigation Data Visualizer
 
 Interactive 3D visualization of CPT, MASW, and borehole data.
 
